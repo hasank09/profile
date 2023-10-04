@@ -1,0 +1,35 @@
+body{
+    background-color:#EAF6F6;
+}
+
+h1 {
+  color: #66BFBF;
+}
+
+h2 {
+  color: #66BFBF;
+}
+h3 {
+  color: #66BFBF;
+}
+
+hr {
+    background-color:#EAF6F6;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-top-width: 6px;
+    height: 2px;
+    width: 5%
+}
+p {
+  font-size: 20px;
+}
+
+tr:hover {
+    background-color: coral;
+}
+
+td {
+  vertical-align: top;
+}
